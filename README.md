@@ -3,7 +3,7 @@
 I'm Matt. I use tech to help people work together.
 
 Here are a few of my favorite things to geek out on:
-- 🤖 Machine Learning / Computer Vision
+- 🤖 Machine Learning / Computer Vision / LLMs
 - 🌎 Distributed/Decentralized systems like WebRTC & bittorrent. Not crypto. 
 - 📝 Collaborative editing (OTs, CRDTs, everything in between)
 - 🧑‍💻 Single Page Apps (React, GraphQL)
